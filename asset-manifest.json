@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/LonelyPopFanGame/static/css/main.b18b17fe.chunk.css",
+    "main.js": "/LonelyPopFanGame/static/js/main.7a36d167.chunk.js",
+    "main.js.map": "/LonelyPopFanGame/static/js/main.7a36d167.chunk.js.map",
+    "runtime-main.js": "/LonelyPopFanGame/static/js/runtime-main.13d3eaa2.js",
+    "runtime-main.js.map": "/LonelyPopFanGame/static/js/runtime-main.13d3eaa2.js.map",
+    "static/css/2.f1bd3b54.chunk.css": "/LonelyPopFanGame/static/css/2.f1bd3b54.chunk.css",
+    "static/js/2.6b37d824.chunk.js": "/LonelyPopFanGame/static/js/2.6b37d824.chunk.js",
+    "static/js/2.6b37d824.chunk.js.map": "/LonelyPopFanGame/static/js/2.6b37d824.chunk.js.map",
+    "index.html": "/LonelyPopFanGame/index.html",
+    "precache-manifest.c54c8317202495d58f0be537d6fce73f.js": "/LonelyPopFanGame/precache-manifest.c54c8317202495d58f0be537d6fce73f.js",
+    "service-worker.js": "/LonelyPopFanGame/service-worker.js",
+    "static/css/2.f1bd3b54.chunk.css.map": "/LonelyPopFanGame/static/css/2.f1bd3b54.chunk.css.map",
+    "static/css/main.b18b17fe.chunk.css.map": "/LonelyPopFanGame/static/css/main.b18b17fe.chunk.css.map",
+    "static/js/2.6b37d824.chunk.js.LICENSE.txt": "/LonelyPopFanGame/static/js/2.6b37d824.chunk.js.LICENSE.txt",
+    "static/media/lonelypop_game-05-min.png": "/LonelyPopFanGame/static/media/lonelypop_game-05-min.c3029085.png",
+    "static/media/lonelypop_game-06-min.png": "/LonelyPopFanGame/static/media/lonelypop_game-06-min.d22985c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d3eaa2.js",
+    "static/css/2.f1bd3b54.chunk.css",
+    "static/js/2.6b37d824.chunk.js",
+    "static/css/main.b18b17fe.chunk.css",
+    "static/js/main.7a36d167.chunk.js"
+  ]
+}
